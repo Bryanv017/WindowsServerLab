@@ -5,7 +5,7 @@ This project is intended to set up an Windows Server home lab using Hyper-V as m
 # Links 
 •	How to set up Hyper-V in Windows: https://www.itechtics.com/enable-hyper-v-windows-10-home/#install-hyper-v-in-windows-10-home
 
-•	Microsoft server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 
+•	Microsoft Windows server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 
 
 •	Windows 10 ISO: https://www.microsoft.com/en-us/software-download/windows10 
 
